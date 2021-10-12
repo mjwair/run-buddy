@@ -18,3 +18,5 @@ https://mjwair.github.io/Horiseon/
 ## Contribution
 
 Made with ❤️ by Mohammad Jwair
+
+### ©️2019 Run Buddy, Inc 
