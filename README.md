@@ -13,7 +13,7 @@ A website that offers fitness training services.
 
 ## Website
 
-https://mjwair.github.io/Horiseon/
+https://mjwair.github.io/run-buddy/
 
 ## Contribution
 
